@@ -1,6 +1,6 @@
 /*	Jasmine Ojeda jojed016@ucr.edu 
  *	Lab Section: 022
- *	Assignment: Lab 1  Exercise 1
+ *	Assignment: Lab 2  Exercise 1
  *	Exercise Description: Garage door, two sensors
  *
  *	I acknowledge all content contained herein, excluding template or example
