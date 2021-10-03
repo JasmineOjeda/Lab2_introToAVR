@@ -1,8 +1,7 @@
-/*	Author: jojed016
- *  Partner(s) Name: 
- *	Lab Section:
- *	Assignment: Lab #  Exercise #
- *	Exercise Description: [optional - include for your own benefit]
+/*	Jasmine Ojeda jojed016@ucr.edu 
+ *	Lab Section: 022
+ *	Assignment: Lab 1  Exercise 1
+ *	Exercise Description: Garage door, two sensors
  *
  *	I acknowledge all content contained herein, excluding template or example
  *	code, is my own original work.
