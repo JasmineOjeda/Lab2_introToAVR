@@ -21,10 +21,11 @@ int main(void) {
     unsigned char cntavail = 0x00;    
 
     while (1) {
-        cntavail = (!(PINA & 0x08) >> 3) +
-                   (!(PINA & 0x04) >> 2) +
-                   (!(PINA & 0x02) >> 1) +
-                    !(PINA & 0x01);
+        cntavail = ((PINA & 0x08) >> 3) +
+                   ((PINA & 0x04) >> 2) +
+                   ((PINA & 0x02) >> 1) +
+                    (PINA & 0x01);
+        cntavail = 4 - cntavail;
         PORTC = cntavail;
     }
     return 1;
